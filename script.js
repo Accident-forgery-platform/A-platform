@@ -1,4 +1,4 @@
-let timeoutId;
+et timeoutId;
 function searchResources() {
     const input = document.getElementById('search-input').value.toLowerCase();
     const category = document.getElementById('category-filter').value;
